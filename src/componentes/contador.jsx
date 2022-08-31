@@ -1,4 +1,5 @@
 import React from 'react';
+import '../stylesheets/contador.css'
 
 function Contador({ numClics }){
     return(
